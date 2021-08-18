@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is the stage two task for the HNG internship.
 
-A few resources to get you started if this is your first Flutter project:
+The video shows what task entails.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+https://user-images.githubusercontent.com/56594398/129949786-f2eddb9d-8e30-4dd4-8608-d704163006fe.mp4
+
+
