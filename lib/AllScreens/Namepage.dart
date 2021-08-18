@@ -49,7 +49,7 @@ class NamePage extends StatelessWidget {
       child: Container(
         child: Column(children: [
             Image(
-            image: AssetImage("images/zuri.png"),
+            image: AssetImage("images/zurilogo.png"),
             width: 200.0,
             height: 180.0,
             alignment: Alignment.center,
